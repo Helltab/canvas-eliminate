@@ -1,0 +1,52 @@
+{
+  "images": [
+    {
+      "name": "nums",
+      "url": "src/img/33X42.png"
+    },
+    {
+      "name": "bomb",
+      "url": "src/img/bomb.png"
+    },
+    {
+      "name": "game",
+      "url": "./src/img/game.png"
+    },
+    {
+      "name": "grid",
+      "url": "./src/img/grid.jpg"
+    },
+    {
+      "name": "home",
+      "url": "./src/img/home.jpg"
+    },
+    {
+      "name": "sp1",
+      "url": "./src/img/sprite_1.png"
+    },
+    {
+      "name": "sp2",
+      "url": "./src/img/sprite_2.png"
+    },
+    {
+      "name": "sp3",
+      "url": "./src/img/sprite_3.png"
+    },
+    {
+      "name": "sp4",
+      "url": "./src/img/sprite_4.png"
+    },
+    {
+      "name": "sp5",
+      "url": "./src/img/sprite_5.png"
+    },
+    {
+      "name": "sp6",
+      "url": "./src/img/sprite_6.png"
+    },
+    {
+      "name": "sp7",
+      "url": "./src/img/sprite_7.png"
+    }
+  ]
+}

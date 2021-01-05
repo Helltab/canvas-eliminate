@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        .main {
+            margin: 0 auto;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+<div class="main">
+    <canvas width="480" height="800" id="myCanvas"></canvas>
+    <script>
+        Object.create()
+    </script>
+</div>
+
+<script src="src/game.js"></script>
+<script src="src/sprite.js"></script>
+<script src="src/map.js"></script>
+<script>
+    let game = new Game({canvas: document.getElementById("myCanvas")})
+    game.loadR()
+</script>
+</body>
+</html>
